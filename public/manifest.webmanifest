@@ -1,0 +1,9 @@
+{
+  "name": "Juntos — Organizador de viajes colaborativo",
+  "short_name": "Juntos",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#16262A",
+  "theme_color": "#16262A",
+  "icons": []
+}
